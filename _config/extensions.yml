@@ -1,0 +1,6 @@
+---
+Name: weboftalent-footer-text
+---
+SiteConfig:
+  extensions:
+    ['FooterTextSiteConfig']

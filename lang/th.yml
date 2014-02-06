@@ -1,0 +1,5 @@
+th:
+  SiteConfig:
+    FOOTER: 'Footer (TH)'
+    FOOTER_TEXT: 'Text to show in the foooter (TH)'
+ 
