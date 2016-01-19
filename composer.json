@@ -1,17 +1,22 @@
 {
-	"name": "weboftalent/footer-text",
-	"description": "Optionally configure text in the footer of your site",
-	"type": "silverstripe-module",
-	"keywords": ["silverstripe", "footer","text","weboftalent"],
-	"authors": [
-		{
-			"name": "Gordon Anderson",
-			"email": "gordon.b.anderson@gmail.com",
-			"role": "Developer"
-		}
-	],
-	"require":
-	{
-		"silverstripe/framework": "~3.1"
-	}
+  "name": "weboftalent/footer-text",
+  "description": "Optionally configure text in the footer of your site",
+  "type": "silverstripe-module",
+  "keywords": [
+    "silverstripe",
+    "footer",
+    "text",
+    "weboftalent"
+  ],
+  "authors": [
+    {
+      "name": "Gordon Anderson",
+      "email": "gordon.b.anderson@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "silverstripe/framework": "~3.1"
+  },
+  "license": "BSD-3-Clause"
 }
